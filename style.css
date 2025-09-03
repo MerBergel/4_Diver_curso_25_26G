@@ -1,0 +1,22 @@
+body { 
+    font-family: 'Inter', sans-serif; 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+.main-tab-active { 
+    border-color: #B47A6A; 
+    color: #B47A6A; 
+    background-color: #F8F7F4; 
+}
+
+.unit-tab-active { 
+    border-color: #B47A6A; 
+    color: #B47A6A; 
+    font-weight: 600; 
+}
+
+.sidebar-active { 
+    background-color: #8A9A5B; 
+    color: white; 
+}
